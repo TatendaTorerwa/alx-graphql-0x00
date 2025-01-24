@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "7",
+          "name": "Squanchy",
+          "status": "Alive",
+          "image": "https://example.com/image7.png"
+        },
+        {
+          "id": "8",
+          "name": "Tammy Guetermann",
+          "status": "Deceased",
+          "image": "https://example.com/image8.png"
+        }
+      ]
+    }
+  }
+}
