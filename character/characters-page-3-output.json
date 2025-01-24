@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Big Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Big Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        }
+      ]
+    }
+  }
+}
